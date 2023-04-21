@@ -1,0 +1,18 @@
+[
+  {
+    "model": "my_app.User",
+    "pk": 1,
+    "fields": {
+      "email": "ojas12@gmail.com",
+      "password": "Ojas12345",
+      "full_name": "ojas Acharekar",
+      "phone": "1234567890",
+      "address": "",
+      "city": null,
+      "state": null,
+      "country": null,
+      "pincode": null,
+      "role": "admin"
+    }
+  }
+]
